@@ -3,8 +3,8 @@
 ## Synopsis
 
 This was a short project with dual intentions.
-- To explore the possibilities of the canvas element introduced in HTML5 for game design.
-- To learn the basics of rendering, collision detection, and physics simulation.
+* To explore the possibilities of the canvas element introduced in HTML5 for game design.
+* To learn the basics of rendering, collision detection, and physics simulation.
 
 I am currently not working on this project.
 
