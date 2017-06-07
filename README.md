@@ -8,13 +8,13 @@ This was a short project with dual intentions.
 
 I am currently not working on this project.
 
-## Motivation
-
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
-
 ## Installation
 
-The project requires no outside libraries, just download and run index.html int he browser fo your choice.
+The project requires no outside libraries, just download and run index.html in the browser of your choice.
+
+## Usage
+
+Use the left and right arrow keys to move the red square that represents the character and the up arrow key to jump.
 
 ## License
 
